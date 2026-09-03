@@ -39,7 +39,7 @@ services:
 
   ################################################################################
 
-  cdp-node-backend-template:
+  defra.cdp-node-backend-template:
     build:
       context: .
       target: development
